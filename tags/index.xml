@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tech Samskruthi</title>
-    <link>techsamskruthi.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Tech Samskruthi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="techsamskruthi.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
