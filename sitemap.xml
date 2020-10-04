@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>/tags/general/</loc>
     <lastmod>2020-10-04T04:48:05+00:00</lastmod>
   </url>
   
@@ -13,8 +13,22 @@
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-10-04T04:48:05+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2020-10-04T04:48:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/welcome-to-tech-samskruthi/</loc>
+    <lastmod>2020-10-04T04:48:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/archives/2020/04/</loc>
   </url>
   
   <url>
@@ -23,10 +37,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>

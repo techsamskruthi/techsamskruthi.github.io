@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Tech Samskruthi</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Tech Samskruthi</description>
+    <title>general on Tech Samskruthi</title>
+    <link>/tags/general/</link>
+    <description>Recent content in general on Tech Samskruthi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2020 04:48:05 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Oct 2020 04:48:05 +0000</lastBuildDate><atom:link href="/tags/general/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Tech Samskruthi</title>
       <link>/posts/welcome-to-tech-samskruthi/</link>
