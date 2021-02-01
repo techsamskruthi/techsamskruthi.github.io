@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/episode-3-bigbasket/</loc>
-    <lastmod>2020-10-25T04:48:05+00:00</lastmod>
+    <loc>/tags/interview/</loc>
+    <lastmod>2021-02-01T00:07:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/episode-5-interview/</loc>
+    <lastmod>2021-02-01T00:07:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/kannada/</loc>
+    <lastmod>2021-02-01T00:07:07+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
+    <lastmod>2021-02-01T00:07:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/software-engineering/</loc>
+    <lastmod>2021-02-01T00:07:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-02-01T00:07:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tech/</loc>
+    <lastmod>2021-02-01T00:07:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-02-01T00:07:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/episode-3-bigbasket/</loc>
     <lastmod>2020-10-25T04:48:05+00:00</lastmod>
   </url>
   
@@ -19,21 +54,6 @@
   
   <url>
     <loc>/tags/startups/</loc>
-    <lastmod>2020-10-25T04:48:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-10-25T04:48:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tech/</loc>
-    <lastmod>2020-10-25T04:48:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-10-25T04:48:05+00:00</lastmod>
   </url>
   
@@ -64,6 +84,10 @@
   
   <url>
     <loc>/archives/2020/10/</loc>
+  </url>
+  
+  <url>
+    <loc>/archives/2021/1/</loc>
   </url>
   
   <url>

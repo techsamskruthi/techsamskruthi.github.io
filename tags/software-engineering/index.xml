@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software engineering on Tech Samskruthi</title>
+    <link>/tags/software-engineering/</link>
+    <description>Recent content in software engineering on Tech Samskruthi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Feb 2021 00:07:07 +0000</lastBuildDate><atom:link href="/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interview of Harsha G Rao</title>
+      <link>/posts/episode-5-interview/</link>
+      <pubDate>Mon, 01 Feb 2021 00:07:07 +0000</pubDate>
+      
+      <guid>/posts/episode-5-interview/</guid>
+      <description>Overview In this episode we talk interview Harsha Gururaja Rao.
+Twitter: https://twitter.com/harshagrao
+LinkedIn: https://in.linkedin.com/in/harshagrao
+He is currently working at Airbus in Germany as a manager helping to predictably maintain the air cabin using data. He is also a commentator in Star Sports Kannada for Bengaluru FC where he continues to do it remotely.
+Full Podcast YouTube:
+  Spotify:
+  </description>
+    </item>
+    
+  </channel>
+</rss>
